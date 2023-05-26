@@ -97,6 +97,16 @@ a:hover{
 	justify-content: center;
 	display: flex;
 }
+#video-upper
+{
+	color: white;
+	bottom: 200;
+	position: absolute;
+	
+	width: 100%;
+	justify-content: center;
+	display: flex;
+}
 .main{
 	display: flex;
 	justify-content: center;
