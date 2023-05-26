@@ -31,6 +31,15 @@ body {
 	margin: 0px;
 
 }
+.message{
+	color: rgb(255, 255, 255);
+
+	border-width: 20px;
+	font-size: 200%;
+	font-family: "Miratrix";
+	margin: 0px;
+
+}
 
 @font-face {
 font-family: "Miratrix"; 
